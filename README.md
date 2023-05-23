@@ -9,4 +9,4 @@ Whenever I take a water break, I inteact with him. If I look up and he's mad, I 
 
 Free "Single Duck Quack" mp3 can be found here https://www.freesoundslibrary.com/single-duck-quack-sound-effect/
 
-For it to work as-is, you'll need to move the mp3 to the same directory as your script. Otherwise, change the code to reflect the direct file path. 
+For it to work as-is, you'll need to move the mp3 to the same directory as your script. Otherwise, change the code to reflect the file path. 
